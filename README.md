@@ -1,0 +1,2 @@
+# SharEditor
+Simple Editor
